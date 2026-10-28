@@ -240,4 +240,4 @@ This repository serves as the official landing page for **Gangstar New Orleans: 
 **Get the most recent version of Gangstar New Orleans: Open World today!**
 
 ---
-**Last updated:** 2026-10-27 23:22:58 UTC
+**Last updated:** 2026-10-28 03:14:28 UTC
